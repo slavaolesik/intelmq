@@ -38,7 +38,7 @@ Please refer to the [NEWS](NEWS.md) for a list of changes which have an affect o
 
 ### Documentation
 - Updates to Contrib and Overview pages (PR#2672 by Sebastian Wagner).
-- Feeds: add NetAPI compromised domains feed (by Slava).
+- Feeds: add NetAPI compromised domains and IPs feeds (by Slava).
 
 ### Packaging
 
